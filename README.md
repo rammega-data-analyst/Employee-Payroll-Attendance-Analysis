@@ -11,11 +11,18 @@ This Excel-based data analytics project focuses on analyzing employee payroll an
 
 ## Tools Used
 - Microsoft Excel
-- Data Cleaning
-- Excel Formulas
+## Excel Techniques Used
+
+
+- Excel Formulas & Functions
+- Sorting and Filtering
 - Pivot Tables
-- Charts & Data Visualization
-- KPI Reporting
+- Pivot Charts
+- Attendance Percentage Calculation
+- Gross Salary & Net Pay Analysis
+- KPI Calculation
+- Data Visualization
+- Interactive Dashboard Creation
 
 ## Key Performance Indicators (KPIs)
 
@@ -25,17 +32,17 @@ This Excel-based data analytics project focuses on analyzing employee payroll an
 | Total Gross Salary | ₹3,09,07,150.92 |
 | Total Net Pay | ₹2,56,65,520.92 |
 
+## Key Insights
+- Analyzed overall employee attendance performance.
+- Evaluated total gross salary and net pay.
+- Converted payroll data into meaningful KPIs.
+- Presented insights using an Excel dashboard.
 ## Dashboard Preview
 
 ![Employee Payroll Dashboard](Final%20Dashboard%20image.png)
 
 
 
-## Key Insights
-- Analyzed overall employee attendance performance.
-- Evaluated total gross salary and net pay.
-- Converted payroll data into meaningful KPIs.
-- Presented insights using an Excel dashboard.
 
 ## Conclusion
 
