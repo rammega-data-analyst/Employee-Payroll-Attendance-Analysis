@@ -8,6 +8,9 @@ This Excel-based data analytics project focuses on analyzing employee payroll an
 - Evaluate gross salary and net pay.
 - Identify key payroll and attendance insights.
 - Present important business metrics through an interactive Excel dashboard.
+## Project Files
+
+- Employee_Payroll_Attendance_Analysis.xlsx – Original employee payroll and attendance dataset.
 
 ## Tools Used
 - Microsoft Excel
